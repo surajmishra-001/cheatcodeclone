@@ -1,6 +1,6 @@
 # cheatcodeclone
 
-live : cheatcodedesignclone.free.nf
+live : http://cheatcodedesignclone.free.nf
 
 ![image](https://github.com/surajmishra-001/cheatcodeclone/assets/140611249/2fc0aaec-7c58-4b59-9140-32fe20321a61)
 
